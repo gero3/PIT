@@ -1,0 +1,1 @@
+{"type":"grammar","rules":[{"type":"rule","identifier":"start","description":{"type":"Class","inverted":false,"ignoreCase":false,"characters":["A","B","C"],"rawText":"[\"A\"\"B\"\"C\"]"}}]}

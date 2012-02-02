@@ -1,0 +1,1 @@
+{"type":"grammar","rules":[{"type":"rule","identifier":"start","description":{"type":"Sequence","expressions":[{"type":"Literal","Literal":"ABC","ignoreCase":false},{"type":"Literal","Literal":"test","ignoreCase":false}]}}]}
